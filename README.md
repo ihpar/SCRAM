@@ -14,7 +14,7 @@ Salted Challenge Response Authentication Mechanism (SCRAM-SHA1 No Channel Bindin
 - Run Apache Server
 - Start Google Chrome and go to http://localhost/SimpleSCRAM/
 - This version is using the test vectors fetched from https://tools.ietf.org/html/rfc5802#page-9
-- Calculated scram values and authentication results can be inspected vie Chrome's JS Console.
+- Calculated scram values and authentication results can be inspected via Chrome's JS Console.
 - User name: user, password: pencil
 
 ## Screen
